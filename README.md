@@ -1,5 +1,12 @@
 # USAD - UnSupervised Anomaly Detection on multivariate time series
 
+## Execution instructions by Duneesha
+
+Step 1: Execute the command ./pre_execution_instructions.sh
+
+Step 2: Execute the python file, main_execution_file.py.
+## Original Readme.md
+
 Scripts and utility programs for implementing the USAD architecture.
 
 Implementation by: Francesco Galati.
